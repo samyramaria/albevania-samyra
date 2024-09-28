@@ -5,21 +5,13 @@ Um projeto interativo inspirado na série "La Casa de Papel", onde os usuários 
 ## Índice
 
 - [Sobre](#sobre)
-- [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Como Começar](#como-começar)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 - [Autores](#autores)
 
 ## Sobre
 
-Este projeto é uma aplicação interativa que permite aos fãs de "La Casa de Papel" explorar detalhes sobre a série, como informações sobre os personagens, resumos de episódios, e interações com o enredo. O objetivo é criar uma experiência imersiva que aprofunde o envolvimento dos fãs com a história.
-
-## Funcionalidades
-
-- [x] Visualização de personagens e suas histórias
-- [x] Resumos dos episódios
+Este projeto é uma aplicação interativa que permite aos fãs de "La Casa de Papel" explorar detalhes sobre a série, como informações sobre os personagens, episódios, making of, trilha sonora, críticas e fandom. O objetivo é criar uma experiência imersiva que aprofunde o envolvimento dos fãs com a história.
 
 ## Tecnologias Utilizadas
 
@@ -33,4 +25,9 @@ Instruções para configurar o ambiente de desenvolvimento e rodar o projeto loc
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/POO-ADS-IFPB-CZ/projeto-final-prometheus.git
+   git clone https://github.com/samyramaria/albevania-samyra.git```
+
+## Autores
+
+👤 **Samyra Maria**
+👤 **Albevania**
